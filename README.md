@@ -2,3 +2,4 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=leylaisa&show_icons=true&theme=radical" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylaisa&layout=compact&theme=radical" />
 </p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
