@@ -3,5 +3,5 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylaisa&layout=compact&theme=radical" />
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{leylaisa}/count.svg)
 
